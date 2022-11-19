@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c3bd70571c16d3d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f00c013de3dbaa0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5c6c44eaa9688e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grades/八年级/第三单元/第七课 —— 积极奉献社会.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48e7fb8f9a89852c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55f03868006b0bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a88083216ac8d3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bea9af3148b48e73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eee44a08dc043c47",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b30c365f4340a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fc6a3f50881d83b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d31a27588527daca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "grades/八年级/第三单元/第七课 —— 积极奉献社会.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64c787eba0d541ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "grades/八年级/第三单元/第七课 —— 积极奉献社会.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcba7a7a5b00a8a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1485e04e92b1a71e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "grades/八年级/第三单元/第七课 —— 积极奉献社会.md"
+              }
+            }
+          },
+          {
+            "id": "04734c25910a143b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ed5c6c44eaa9688e",
+  "lastOpenFiles": [
+    "grades/八年级/第三单元/第三单元 —— 勇担社会责任.md",
+    "grades/八年级/第一单元/第一课 —— 丰富的社会生活.md",
+    "grades/八年级/第三单元/第七课 —— 积极奉献社会.md",
+    "files/templates/{{title}}.md",
+    "grades/八年级/第二单元/第二单元 —— 遵守社会规则.md",
+    "grades/八年级/第一单元/第一单元 —— 走进社会生活.md",
+    "grades/八年级/第一单元/第二课 —— 网络生活新空间.md",
+    "grades/八年级/第二单元/第三课 —— 社会生活离不开规则.md",
+    "目录.md",
+    "grades/八年级/八年级.md"
+  ]
+}
