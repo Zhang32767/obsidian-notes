@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "attachmentFolderPath": "files",
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
